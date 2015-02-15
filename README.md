@@ -7,6 +7,8 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 - [Contacts](#contacts)
 - [Week 1](#week-1)
 	- [Schedule](#schedule)
+	- [Day 1](#day-1)
+		- [Introduction](#introduction)
 
 ## <id="contacts"></a>Contacts
 |Name|Email|Phone|
@@ -20,27 +22,27 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 ### Schedule
 <table>
 	<tr  style="background-color: grey">
-	    <th>Week 1</th>
-	    <th>Day 1</th>
-	    <th>Day 2</th>
-	    <th>Day 3</th>
-	    <th>Day 4</th>
-	    <th>Day 5</th>
+	      <th>Week 1</th>
+	      <th>Day 1</th>
+	      <th>Day 2</th>
+	      <th>Day 3</th>
+	      <th>Day 4</th>
+	      <th>Day 5</th>
 	</tr>
 	<tr>
-		<td>9:00 - 9:15</td>
-		<td rowspan="4">Introduction(1h)</td>
-		<td>Moring review (15m)</td>
-		<td>Moring review (15m)</td>
-		<td>Moring review (15m)</td>
-		<td>Moring review (15m)</td>
+	  	<td>9:00 - 9:15</td>
+	  	<td rowspan="4">[Introduction](#introduction) (1h)</td>
+	  	<td>Moring review (15m)</td>
+	  	<td>Moring review (15m)</td>
+	  	<td>Moring review (15m)</td>
+	  	<td>Moring review (15m)</td>
 	</tr>
 	<tr>
 	    <td>09:15 - 09:30</td>
 	    <td rowspan="11">Basic HTML (2h 45m)</td>
 	    <td rowspan="2">Introduction to PHP (30m)</td>
-		<td rowspan="11">Object Oriented Programming (3h 45m)</td>
-		<td rowspan="11">Object Oriented Programming (3h 45m)</td>
+	  	<td rowspan="11">Object Oriented Programming (3h 45m)</td>
+		  <td rowspan="11">Object Oriented Programming (3h 45m)</td>
 	</tr>
 	<tr>
 	    <td>09:30 - 09:45</td>
@@ -179,3 +181,9 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 		<td rowspan="1">Week 1 summary (15m)</td>
 	</tr>
 </table>
+
+### Day 1
+
+#### Introduction
+
+- [Introduction slides](https://github.com/acn-web-bootcamp/bootcamp/raw/master/week1/introduction.pdf)
