@@ -31,7 +31,7 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 	</tr>
 	<tr>
 	  	<td>9:00 - 9:15</td>
-	  	<td rowspan="4">[Introduction](#introduction) (1h)</td>
+	  	<td rowspan="4">Introduction (1h)</td>
 	  	<td>Moring review (15m)</td>
 	  	<td>Moring review (15m)</td>
 	  	<td>Moring review (15m)</td>
