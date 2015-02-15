@@ -5,8 +5,8 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 
 ## TOC
 - [Contacts](#contacts)
-- [Week 1](#w1)
-	- [Schedule](#w1_schedule)
+- [Week 1](#week-1)
+	- [Schedule](#schedule)
 
 ## <id="contacts"></a>Contacts
 |Name|Email|Phone|
@@ -15,9 +15,9 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 |Janis Koselevs|janis.koselevs@accenture.com|-
 |Mailing List|accenture-web-bootcamp-spring-2015@googlegroups.com|-
 
-## <id="w1"></a>Week 1
+## Week 1
 
-### <id="w1_schedule"></a>Schedule
+### Schedule
 <table>
 	<tr  style="background-color: grey">
 	    <th>Week 1</th>
