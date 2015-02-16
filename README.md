@@ -13,8 +13,8 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 ## <id="contacts"></a>Contacts
 |Name|Email|Phone|
 |----|-----|-----|
-|Martins Sipenko|martins.sipenko@accenture.com|29933012
-|Janis Koselevs|janis.koselevs@accenture.com|-
+|Martins Sipenko|martins.sipenko@accenture.com<br/>martins.sipenko@gmail.com|29933012
+|Janis Koselevs|janis.koselevs@accenture.com<br/>janis.koselevs@gmail.com|-
 |Mailing List|accenture-web-bootcamp-spring-2015@googlegroups.com|-
 
 ## Week 1
