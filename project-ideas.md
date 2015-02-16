@@ -1,0 +1,15 @@
+- Calculator
+- Image resize service
+- TODO
+- Cloud tool
+- Voting app
+- Quiz tool
+- Game
+- News reader
+- Blog
+- IM
+- Portfolio app
+- "Craigslist"
+- eShop
+- Cooking app
+- Gardening app
