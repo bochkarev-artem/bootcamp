@@ -187,3 +187,7 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 #### Introduction
 
 - [Introduction slides](https://github.com/acn-web-bootcamp/bootcamp/raw/master/week1/introduction.pdf)
+
+#### Version Control Systems
+- http://try.github.com
+- http://git-scm.com/book/en/v2
