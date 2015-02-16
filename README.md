@@ -9,6 +9,7 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 	- [Schedule](#schedule)
 	- [Day 1](#day-1)
 		- [Introduction](#introduction)
+		- [Version Control](#version-control-systems)
 
 ## <id="contacts"></a>Contacts
 |Name|Email|Phone|
