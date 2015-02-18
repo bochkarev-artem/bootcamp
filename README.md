@@ -196,7 +196,6 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 #### HTTP: Protocol every developer must know
 - http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177
 - http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155
-- 
 
 ### Day 2
 
