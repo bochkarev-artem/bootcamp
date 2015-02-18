@@ -215,4 +215,3 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 
 #### PHP
 - http://www.phptherightway.com/
-- 
