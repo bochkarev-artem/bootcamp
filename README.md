@@ -10,6 +10,8 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 	- [Day 1](#day-1)
 		- [Introduction](#introduction)
 		- [Version Control](#version-control-systems)
+	- [Day 2](#day-2)
+	- [Day 3](#day-3)
 
 ## <id="contacts"></a>Contacts
 |Name|Email|Phone|
