@@ -211,6 +211,11 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 #### CSS3 Basics
 - [Slides](https://github.com/acn-web-bootcamp/bootcamp/raw/master/week1/css3-basics.pdf)
 
+#### JavaScript basics
+- https://www.codeschool.com/paths/javascript
+- http://www.codecademy.com/en/tracks/javascript
+- https://www.udacity.com/course/ud804
+
 ### Day 3
 
 #### PHP
