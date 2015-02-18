@@ -199,6 +199,10 @@ After this Bootcamp you will be able to code modern PHP, JavaScript & HTML that 
 - http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177
 - http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155
 
+#### Development Environment
+- https://www.vagrantup.com/
+- http://laravel.com/docs/master/homestead
+
 ### Day 2
 
 #### HTML5 Basics
